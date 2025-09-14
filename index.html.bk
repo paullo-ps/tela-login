@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensors</title>
+    <script>
+        function teste() {
+            window.alert('teste')
+        }
+    </script>
+    <!-- <link rel="stylesheet" href="styles/style.scss"> -->
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <h1>Oi</h1>
+    <button onclick="teste()">Teste</button>
+    <p>
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tristique, enim ac iaculis bibendum, urna metus venenatis eros, quis volutpat ligula enim ac justo. Sed in efficitur lacus. Etiam a est non odio auctor venenatis. Aliquam erat volutpat. Pellentesque consectetur, tellus quis vehicula aliquam, nunc sapien dignissim arcu, vitae sodales arcu erat condimentum ex. Donec eu enim sit amet augue faucibus porta. Proin convallis, dolor at sollicitudin tincidunt, dolor ipsum imperdiet risus, in ornare purus diam eu augue. Integer dapibus elementum arcu vel egestas. Vivamus scelerisque laoreet dolor sed sagittis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+        Ut nec posuere dolor, sed commodo turpis. Sed venenatis nunc at nulla consectetur, et feugiat lorem iaculis. Sed nunc purus, pellentesque et ligula eget, efficitur auctor nulla. Nunc laoreet nec turpis lacinia varius. Morbi porttitor tincidunt erat eu finibus. Aenean efficitur dolor nec diam placerat, eget dignissim enim elementum. Cras tempus dapibus mi, ac tincidunt turpis. Proin in risus nec nisi luctus euismod. Cras eu lorem iaculis, porttitor tortor vel, eleifend ipsum. Nullam eget nulla ipsum. Praesent ac nibh justo.
+
+        Cras rhoncus mauris mi, in rutrum mauris imperdiet in. Proin congue tempor est, congue blandit tellus. Cras magna sapien, bibendum non sollicitudin ut, varius vel justo. Nam eu sodales justo, tempus congue diam. Mauris eget lobortis tellus, sed porta erat. Pellentesque bibendum porttitor tellus eget viverra. Maecenas porta, justo et fringilla semper, sapien enim ultrices purus, sit amet egestas metus diam sit amet lorem. Suspendisse lacus nisl, feugiat sit amet felis eget, porta hendrerit arcu. Suspendisse metus dui, consequat quis justo eu, ultrices faucibus mauris. Aliquam non arcu et odio imperdiet molestie nec nec tellus. Nulla malesuada, lorem ac molestie iaculis, orci ex tristique lacus, vitae dictum nunc lectus vel lorem. Aenean euismod commodo maximus. Nulla facilisi. Fusce sollicitudin finibus turpis sed aliquam. Pellentesque feugiat turpis quam. Praesent mattis in eros in elementum.
+
+        Morbi commodo non odio sed egestas. Phasellus congue ultricies sollicitudin. Sed mollis libero aliquam porta egestas. Cras sit amet dolor libero. Fusce iaculis orci ligula, laoreet posuere erat dapibus non. Sed a viverra felis. Duis et tincidunt ipsum. Nullam lobortis libero diam, sit amet congue augue malesuada eu. Maecenas ante nunc, venenatis in elit nec, viverra dapibus quam. Nullam vel ex a purus aliquet luctus. Aliquam erat volutpat. Quisque varius gravida finibus. Morbi tincidunt augue nec justo efficitur, at placerat risus gravida.
+
+        Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla facilisi. Morbi in molestie tellus. Integer porta nisi eu scelerisque fermentum. Aliquam dui nunc, vulputate sit amet cursus rhoncus, dictum ac mi. Donec placerat sem aliquet nisl dictum, sed mattis lacus cursus. Suspendisse volutpat dui in nulla volutpat sagittis. Pellentesque efficitur euismod accumsan. Nam volutpat sem mi, sed rhoncus nisl tincidunt sit amet. Fusce finibus a magna sit amet gravida. Aenean faucibus accumsan arcu sit amet feugiat. Maecenas mattis pulvinar leo. 
+    </p>
+
+<img src="assets/pngegg.png" alt="Piguin em cima de uma placa">
+
+</body>
+</html>
